@@ -13,7 +13,7 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 - :star: Learning English 
 - :earth_americas: From Venezuela
 
-<h2 >Languajes I use :fire:</h2>
+<h2 >Technologies I use :fire:</h2>
 
 - HTML5
 - CSS and Bootstrap
@@ -21,6 +21,7 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 - SQL (MySQL)
 - PHP (Laravel and Symfony)
 - NodeJS (Express)
+- Wordpress
 
 :memo: The languaje which I learned to program  was C++, it is cool isn't it?. I'm learning ReactJS, in a future I would like to learn GO. :star2:
 
