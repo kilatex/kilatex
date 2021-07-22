@@ -8,7 +8,7 @@
 </div>
 
 I'm Santiago Maldonado but you can call me kilatex, I'm
-- 🎓Systems Engineering Sutent - UNEFA
+- 🎓Systems Engineering Student - UNEFA
 - :computer: Fullstack Web Developer
 - :star: Learning English 
 - :earth_americas: From Venezuela
@@ -17,7 +17,7 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 
 - HTML5
 - CSS and Bootstrap
-- Javascript (Vanilla and Angular)
+- Javascript (Vanilla, Angular and JQuery)
 - SQL (MySQL)
 - PHP (Laravel and Symfony)
 - NodeJS (Express)
