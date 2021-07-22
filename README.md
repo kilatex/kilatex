@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![banner](https://user-images.githubusercontent.com/61796010/126681279-6dde437d-e4d2-48a3-a82e-a9320172e999.gif)
+![FULLSTACK WEB DEVELOPER (1)](https://user-images.githubusercontent.com/61796010/126690944-17c1f2f0-3d15-4516-958f-316f9bb9ce74.gif)
   
 </div>
 
