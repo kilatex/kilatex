@@ -18,10 +18,10 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 - HTML5
 - CSS and Bootstrap
 - Javascript (Vanilla and JQuery)
-- Learning VUe
+- VueJs
 - SQL (MySQL)
-- PHP (Laravel and Symfony)
-- NodeJS (Express)
+- PHP (Laravel)
+- Learning NodeJS (Express)
 - Wordpress
 
 :memo: The languaje which I learned to program  was C++, it is cool isn't it?. I'm learning Vue.js, in a future I would like to learn Python. :star2:
