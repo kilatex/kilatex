@@ -8,7 +8,7 @@
 </div>
 
 I'm Santiago Maldonado but you can call me kilatex, I'm
-- 🎓Systems Engineering Student - UNEFA
+- 🎓Systems Engineer - UNEFA
 - :computer: Fullstack Web Developer
 - :star: Learning English 
 - :earth_americas: From Venezuela
@@ -21,10 +21,9 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 - VueJs
 - SQL (MySQL)
 - PHP (Laravel)
-- Learning NodeJS (Express)
-- Wordpress
+- Learning NodeJS
 
-:memo: The languaje which I learned to program was C++, it is cool isn't it?. I'm learning Vue.js, in a future I would like to learn React.js. :star2:
+:memo: The languaje which I learned to program was C++, it is cool isn't it?. I'm learning React.js, in a future I would like to learn React.js. :star2:
 
 <br>
 
