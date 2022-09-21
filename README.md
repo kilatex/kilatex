@@ -23,7 +23,7 @@ I'm Santiago Maldonado but you can call me kilatex, I'm
 - PHP (Laravel)
 - Learning NodeJS
 
-:memo: The languaje which I learned to program was C++, it is cool isn't it?. I'm learning React.js, in a future I would like to learn React.js. :star2:
+:memo: The languaje which I learned to program was C++, it is cool isn't it?. I'm learning React.js, in a future I would like to learn Python. :star2:
 
 <br>
 
