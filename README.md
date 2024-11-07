@@ -1,17 +1,13 @@
 
 ### Hi Everyone 👋
 
-<div align="center">
-  
-![FULLSTACK WEB DEVELOPER (1)](https://user-images.githubusercontent.com/61796010/126690944-17c1f2f0-3d15-4516-958f-316f9bb9ce74.gif)
-  
-</div>
 
-I'm Santiago Maldonado but you can call me kilatex, I'm
+
+I'm Santiago Maldonado
 - 🎓Systems Engineer - UNEFA
 - :computer: Fullstack Web Developer
-- :star: Learning English 
-- :earth_americas: From Venezuela
+- :star: Bilingual (English and Spanish) 
+- :earth_americas: Venezuelan, But I reside in the US
 
 <h2 >Technologies I use :fire:</h2>
 
