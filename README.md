@@ -16,7 +16,7 @@
 - 🎓 Systems Engineer - UNEFA
 - 💻 Full-Stack Web Developer with almost 4 years of experience
 - 🌎 Bilingual (English and Spanish)
-- 🏠 Based in the US, from Venezuela 🇻🇪
+- 🏠 Based in the US 🇺🇸
 
 Passionate about building scalable, engaging applications that solve real-world problems. Currently, I’m working on a web app for PNS Cargo, handling logistics functions. I love learning new technologies and I'm always striving to level up my skills. 🚀
 
